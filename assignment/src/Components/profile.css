@@ -1,0 +1,123 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.font{
+    font-family: "Open Sans", sans-serif;
+    height: 30px;
+    font-size: 15px;
+    padding-bottom: 5px;
+    color :rgb(6, 18, 68);
+    margin-left: -20px;
+    margin-top:15px;
+}
+.name{
+    font-family: "Open Sans", sans-serif;
+    color:rgb(6, 18, 68);
+    font-size: 28px;
+    margin-left: -20px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-block: 8px;
+    padding-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.midpart{
+    background-color: #6474E5;
+}
+.icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #fff; 
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .icon-container:hover {
+    border-color: #ccc; 
+  }
+  .heading{
+    font-family: "Open Sans", sans-serif;
+    color:rgb(6, 18, 68);
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 32.2px;
+    margin-block-end: 32.2px;
+    text-align: center;
+    margin-bottom: 8px;
+    margin-top: -8px;
+  }
+  .heading2{
+    font-family: "Open Sans", sans-serif;
+    color:rgb(4, 14, 52);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 45px;
+    margin-block-end: 32.2px;
+    text-align: left;
+    margin-left: 15px;
+  }
+  .head{
+    font-family: "Open Sans", sans-serif;
+    color:rgb(4, 14, 52);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 45px;
+    margin-block-end: 32.2px;
+    text-align: left;
+    margin-left: 15px;
+  }
+  .arrow{
+    color:rgb(118, 131, 155);
+    margin-left: 225px;
+    margin-top: 10px;
+  }
+  .arrow2{
+    color:rgb(118, 131, 155);
+    margin-left: 170px;
+    margin-top: 10px;
+  }
+  .paragraph{
+    font-family: "Open Sans", sans-serif;
+    color:rgb(118, 131, 155) ;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    padding: 0px 12px 0px 12px;
+  }
+  .small{
+    font-family: "Open Sans", sans-serif;
+    color:rgb(118, 131, 155) ;
+    font-size: 15px;
+    line-height: 23px;
+    text-align: center;
+    padding: 0px 12px 0px 12px;
+  }
+  .btn{
+    color:white;
+    border-radius: 25px;
+    background-color: rgb(100, 116, 229);
+    text-align: center;
+    line-height: 5px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .image{
+    border-radius: 50%;
+  }
+  .fixed-button {
+    background-color:black;
+    color: white;
+    height: 60px;
+    margin-top: 3px;
+    padding-right: 5px;
+    border-radius: 50px 50px 50px 50px;
+    cursor: pointer;
+    display: flex;
+  }
+  
